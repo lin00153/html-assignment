@@ -1,0 +1,19 @@
+/* My CSS*/
+
+body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+header,footer {
+    background-color: blue;
+}
+
+.site-title {
+    color:white;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px #000000;
+}
