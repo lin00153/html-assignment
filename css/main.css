@@ -17,3 +17,24 @@ header,footer {
 #my-image {
     box-shadow: 0 0 2px 1px #000000;
 }
+
+#nonelist {
+    list-style-type: none;
+  }
+
+article li{
+    list-style-type:square;
+}
+
+article li:nth-child(odd) {
+    background: lightgreen;
+  }
+
+a:link {
+    text-decoration: none;
+    background-color: yellow;
+    border-style: outset;
+  }
+a:hover{
+    background-color: aqua;
+  }
